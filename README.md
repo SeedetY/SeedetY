@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="./assets/aurora-horizon.svg" width="100%" alt="Stanley">
 
-<!--
-**SeedetY/SeedetY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Founder & CEO · Software engineer
 
-Here are some ideas to get you started:
+I’m Stanley. I decide what to build and write the software behind it. I’m interested in how much control creators keep over their work after they hit **Publish**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Aurora
+
+I started Aurora to explore cybersecurity for the creator economy, where a single account can be both a workspace and a livelihood.
+
+[View Aurora on GitHub →](https://github.com/SeedetY/Aurora)
+
+## How I think about engineering
+
+- **Access control** — Does a forwarded link still respect the creator’s choice of audience?
+- **Reliability** — If a request succeeds but the response never arrives, can the client safely retry?
+- **Privacy** — Can we explain why an action failed without logging someone’s private content?
