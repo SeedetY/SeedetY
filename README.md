@@ -1,17 +1,24 @@
-<img src="./assets/aurora-horizon.svg" width="100%" alt="Stanley">
+<img src="./assets/soundcheck.webp" width="100%" alt="Stanley’s soundcheck poster. A cat at a guitar amp flashes a homemade ROOT pass.">
 
-# Founder & CEO · Software engineer
+# Who gave the cat root?
 
-I’m Stanley. I decide what to build and write the software behind it. I’m interested in how much control creators keep over their work after they hit **Publish**.
+I’m Stanley. I start software projects and write the code. If you hand me a build, I’ll open it in two accounts and try the one thing the demo politely skipped.
 
-## Project Aurora
+## On the workbench
 
-I started Aurora to explore cybersecurity for the creator economy, where a single account can be both a workspace and a livelihood.
+**[Aurora](https://github.com/SeedetY/Aurora)** is my cybersecurity project for creators. Say a creator shares a private link, then changes their mind. I want to know what happens when the person who kept the link opens it tomorrow.
 
-[View Aurora on GitHub →](https://github.com/SeedetY/Aurora)
+<details>
+<summary><strong>Inspect the cat’s backstage pass</strong></summary>
 
-## How I think about engineering
+```text
+NAME ON PASS     the cat
+REQUESTED ROLE   root
+ISSUED BY        the cat
+```
 
-- **Access control** — Does a forwarded link still respect the creator’s choice of audience?
-- **Reliability** — If a request succeeds but the response never arrives, can the client safely retry?
-- **Privacy** — Can we explain why an action failed without logging someone’s private content?
+Denied. He still gets to sleep on the amp.
+
+</details>
+
+<sub>Chegou até aqui pra conferir o crachá do gato? Pode ficar.</sub>
