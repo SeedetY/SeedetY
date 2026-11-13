@@ -1,24 +1,34 @@
-<img src="./assets/soundcheck.webp" width="100%" alt="Stanley’s soundcheck poster. A cat at a guitar amp flashes a homemade ROOT pass.">
+<img src="./assets/passagem-de-som.webp" width="100%" alt="Cartaz da passagem de som do Stanley. O gato se apoia no amplificador e exibe um crachá caseiro de acesso total.">
 
-# Who gave the cat root?
+# Posso te mandar um link?
 
-I’m Stanley. I start software projects and write the code. If you hand me a build, I’ll open it in two accounts and try the one thing the demo politely skipped.
+Sou o Stanley. Eu toco o negócio e também escrevo o código. Se eu te mandar um link, pode ser um convite pra jogar damas. Se eu pedir pra você abrir de novo com outra conta, aí já é meu lado da cibersegurança falando.
 
-## On the workbench
+## Aurora
 
-**[Aurora](https://github.com/SeedetY/Aurora)** is my cybersecurity project for creators. Say a creator shares a private link, then changes their mind. I want to know what happens when the person who kept the link opens it tomorrow.
+Imagine compartilhar seu trabalho com uma pessoa e, no dia seguinte, encontrar o link num grupo de desconhecidos. Foi pra enfrentar problemas assim que comecei o Aurora, meu projeto de cibersegurança para criadores. Quero que quem publicou consiga decidir quando o acesso termina.
+
+[Conheça o Aurora no GitHub →](https://github.com/SeedetY/Aurora)
+
+## Damas Brasil
+
+Queria que chamar um amigo pra jogar desse tão pouco trabalho quanto mandar um “bora?”. No Damas Brasil, você escolhe um apelido, cria uma sala e manda o convite. O tabuleiro abre no navegador. Quero levar essa mesa de dois até um campeonato em que dê pra chegar só pra assistir à final.
+
+[Chame alguém pra jogar →](https://damas-lilac.vercel.app/)
+
+## A partida que eu quero perder
+
+Quero treinar uma IA de damas com as minhas próprias partidas. Primeiro ela precisa aprender minhas manias no tabuleiro. Depois, quero ver se consegue usar uma delas contra mim. Se der certo, a revanche já tá pedida.
 
 <details>
-<summary><strong>Inspect the cat’s backstage pass</strong></summary>
+<summary><strong>Mas quem deu acesso total ao gato?</strong></summary>
 
 ```text
-NAME ON PASS     the cat
-REQUESTED ROLE   root
-ISSUED BY        the cat
+NOME NO CRACHÁ    O gato
+ACESSO PEDIDO     Total
+QUEM AUTORIZOU    O próprio gato
 ```
 
-Denied. He still gets to sleep on the amp.
+Pedido negado. Dormir em cima do amplificador continua liberado.
 
 </details>
-
-<sub>Chegou até aqui pra conferir o crachá do gato? Pode ficar.</sub>
