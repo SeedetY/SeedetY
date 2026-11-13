@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 190" width="960" height="190" role="img" aria-labelledby="t d">
+<title id="t">Lynkyz em números</title>
+<desc id="d">Lynkyz em números. 18 módulos no backend, mais de 2.000 testes automatizados, mais de 80 mil linhas de código sem contar os testes, uma pessoa fazendo tudo isso.</desc>
+<defs>
+<pattern id="tecido" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 5l5-5m-2 6l3-3" stroke="#918295" stroke-opacity=".13" stroke-width="1"/><path d="M0 0l6 6" stroke="#050409" stroke-opacity=".5"/></pattern>
+<pattern id="reticula" width="4" height="4" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#251e29"/></pattern>
+</defs>
+<path d="M11 1H949l10 10v168l-10 10H11L1 179V11z" fill="#302934" stroke="#514856" stroke-width="1.5"/>
+<rect x="5" y="5" width="950" height="180" rx="8" fill="#17141c"/>
+<rect x="7" y="7" width="946" height="176" rx="7" fill="url(#tecido)"/>
+<g transform="translate(14 14)"><circle r="4.2" fill="#0b090e"/><circle r="3.2" fill="#6b6170"/><path d="M-2.2 -1.4L2.2 1.4" stroke="#17121b" stroke-width="1.2"/></g><g transform="translate(14 176)"><circle r="4.2" fill="#0b090e"/><circle r="3.2" fill="#6b6170"/><path d="M-2.2 -1.4L2.2 1.4" stroke="#17121b" stroke-width="1.2"/></g><g transform="translate(946 14)"><circle r="4.2" fill="#0b090e"/><circle r="3.2" fill="#6b6170"/><path d="M-2.2 -1.4L2.2 1.4" stroke="#17121b" stroke-width="1.2"/></g><g transform="translate(946 176)"><circle r="4.2" fill="#0b090e"/><circle r="3.2" fill="#6b6170"/><path d="M-2.2 -1.4L2.2 1.4" stroke="#17121b" stroke-width="1.2"/></g><g>
+<rect x="33.5" y="27" width="212" height="142" rx="9" fill="#0b090e" opacity=".8"/>
+<rect x="32" y="24" width="212" height="142" rx="9" fill="#201923" stroke="#3b323f" stroke-width="1.2"/>
+<rect x="42" y="34" width="192" height="77" rx="5" fill="#0b090f" stroke="#050409" stroke-width="1"/>
+<rect x="42" y="34" width="192" height="77" rx="5" fill="url(#reticula)" opacity=".55"/>
+<circle cx="222" cy="46" r="3.2" fill="#bc8cf1"/><circle cx="222" cy="46" r="6" fill="#bc8cf1" opacity=".18"/>
+<text x="138.0" y="90.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="900" font-style="italic" letter-spacing="-1" fill="#bc8cf1">18</text>
+<text x="138.0" y="136.7" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="12.4" font-weight="700" letter-spacing="2.2" fill="#e3c3ff">MÓDULOS</text>
+<text x="138.0" y="155.7" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#b5a9b9">no backend</text>
+</g>
+<g>
+<rect x="261.5" y="27" width="212" height="142" rx="9" fill="#0b090e" opacity=".8"/>
+<rect x="260" y="24" width="212" height="142" rx="9" fill="#201923" stroke="#3b323f" stroke-width="1.2"/>
+<rect x="270" y="34" width="192" height="77" rx="5" fill="#0b090f" stroke="#050409" stroke-width="1"/>
+<rect x="270" y="34" width="192" height="77" rx="5" fill="url(#reticula)" opacity=".55"/>
+<circle cx="450" cy="46" r="3.2" fill="#f2fc9c"/><circle cx="450" cy="46" r="6" fill="#f2fc9c" opacity=".18"/>
+<text x="366.0" y="90.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="900" font-style="italic" letter-spacing="-1" fill="#f2fc9c">2.000+</text>
+<text x="366.0" y="136.7" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="12.4" font-weight="700" letter-spacing="2.2" fill="#e3c3ff">TESTES</text>
+<text x="366.0" y="155.7" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#b5a9b9">automatizados</text>
+</g>
+<g>
+<rect x="489.5" y="27" width="212" height="142" rx="9" fill="#0b090e" opacity=".8"/>
+<rect x="488" y="24" width="212" height="142" rx="9" fill="#201923" stroke="#3b323f" stroke-width="1.2"/>
+<rect x="498" y="34" width="192" height="77" rx="5" fill="#0b090f" stroke="#050409" stroke-width="1"/>
+<rect x="498" y="34" width="192" height="77" rx="5" fill="url(#reticula)" opacity=".55"/>
+<circle cx="678" cy="46" r="3.2" fill="#fff5dc"/><circle cx="678" cy="46" r="6" fill="#fff5dc" opacity=".18"/>
+<text x="594.0" y="90.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="900" font-style="italic" letter-spacing="-1" fill="#fff5dc">80 mil+</text>
+<text x="594.0" y="136.7" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="12.4" font-weight="700" letter-spacing="2.2" fill="#e3c3ff">LINHAS</text>
+<text x="594.0" y="155.7" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#b5a9b9">de código</text>
+</g>
+<g>
+<rect x="717.5" y="27" width="212" height="142" rx="9" fill="#0b090e" opacity=".8"/>
+<rect x="716" y="24" width="212" height="142" rx="9" fill="#201923" stroke="#3b323f" stroke-width="1.2"/>
+<rect x="726" y="34" width="192" height="77" rx="5" fill="#0b090f" stroke="#050409" stroke-width="1"/>
+<rect x="726" y="34" width="192" height="77" rx="5" fill="url(#reticula)" opacity=".55"/>
+<circle cx="906" cy="46" r="3.2" fill="#bc8cf1"/><circle cx="906" cy="46" r="6" fill="#bc8cf1" opacity=".18"/>
+<text x="822.0" y="90.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="900" font-style="italic" letter-spacing="-1" fill="#bc8cf1">1</text>
+<text x="822.0" y="136.7" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="12.4" font-weight="700" letter-spacing="2.2" fill="#e3c3ff">PESSOA</text>
+<text x="822.0" y="155.7" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#b5a9b9">fazendo tudo isso</text>
+</g>
+</svg>
