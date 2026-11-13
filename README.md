@@ -2,9 +2,9 @@
 
 # Depois que eu te conto, de quem é o segredo?
 
-Sou o Stanley, fundador e engenheiro de software. Imagina mandar uma prévia do seu trabalho em particular e, dias depois, ver o link rodando num grupo que você nem conhece. Comecei o **Aurora**, meu projeto de cibersegurança para criadores, pra que você ainda possa desativar aquele link.
+Sou o Stanley, fundador e engenheiro de software. Imagina mandar uma prévia do seu trabalho em particular e, dias depois, ver o link rodando num grupo que você nem conhece. Por isso estou construindo o **Lynkyz**, uma rede social para criadores e para quem acompanha o trabalho deles. A **Aurora** é a parte dele que cuida da segurança. Quando a moderação restringe um arquivo denunciado, a cópia idêntica não sobe de novo.
 
-[Conheça o Aurora no GitHub →](https://github.com/SeedetY/Aurora)
+[Veja o que a Aurora já faz →](https://github.com/SeedetY/Aurora)
 
 ## Minha pedaleira de código
 
@@ -18,6 +18,10 @@ Aprendi **Python** por causa do Django e **TypeScript** pra trabalhar com React 
 ## Damas Brasil
 
 Fiz o **Damas Brasil** pra uma partida caber num “bora?”. Você abre uma sala no navegador e manda o convite. Sem cadastro. Um dia quero ver uma final de campeonato ali, com a torcida inteira jurando que viu uma jogada melhor.
+
+<img src="./assets/damas-brasil-partida.webp" width="100%" alt="Tela do Damas Brasil com uma partida em andamento. Tabuleiro depois de quatro lances, painel avisando que os dois jogadores estão conectados e a lista de lances com duas capturas.">
+
+Partida de demonstração depois de quatro lances, com duas capturas anotadas ao lado do tabuleiro.
 
 [Abra uma mesa de damas →](https://damas-lilac.vercel.app/)
 
