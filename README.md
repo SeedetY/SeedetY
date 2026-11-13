@@ -1,24 +1,29 @@
-<img src="./assets/passagem-de-som.webp" width="100%" alt="Cartaz da passagem de som do Stanley. O gato se apoia no amplificador e exibe um crachá caseiro de acesso total.">
+<img src="./assets/passagem-de-som.webp" width="100%" alt="Stanley em letras de cartaz de show. Um gato encostado no amplificador exibe um crachá de acesso total.">
 
-# Posso te mandar um link?
+# Depois que eu te conto, de quem é o segredo?
 
-Sou o Stanley. Eu toco o negócio e também escrevo o código. Se eu te mandar um link, pode ser um convite pra jogar damas. Se eu pedir pra você abrir de novo com outra conta, aí já é meu lado da cibersegurança falando.
-
-## Aurora
-
-Imagine compartilhar seu trabalho com uma pessoa e, no dia seguinte, encontrar o link num grupo de desconhecidos. Foi pra enfrentar problemas assim que comecei o Aurora, meu projeto de cibersegurança para criadores. Quero que quem publicou consiga decidir quando o acesso termina.
+Sou o Stanley, fundador e engenheiro de software. Imagina mandar uma prévia do seu trabalho em particular e, dias depois, ver o link rodando num grupo que você nem conhece. Comecei o **Aurora**, meu projeto de cibersegurança para criadores, pra que você ainda possa desativar aquele link.
 
 [Conheça o Aurora no GitHub →](https://github.com/SeedetY/Aurora)
 
+## Minha pedaleira de código
+
+<picture>
+  <source media="(max-width: 950px)" srcset="./assets/pedaleira-vertical.svg">
+  <img src="./assets/pedaleira.svg" width="100%" alt="Três pedais de guitarra ligados por cabos. Python com Django, TypeScript com React e Next.js, e JavaScript no navegador.">
+</picture>
+
+Aprendi **Python** por causa do Django e **TypeScript** pra trabalhar com React e Next.js. Também escrevo **JavaScript** no navegador e uso **PostgreSQL** pra guardar os dados.
+
 ## Damas Brasil
 
-Queria que chamar um amigo pra jogar desse tão pouco trabalho quanto mandar um “bora?”. No Damas Brasil, você escolhe um apelido, cria uma sala e manda o convite. O tabuleiro abre no navegador. Quero levar essa mesa de dois até um campeonato em que dê pra chegar só pra assistir à final.
+Fiz o **Damas Brasil** pra uma partida caber num “bora?”. Você abre uma sala no navegador e manda o convite. Sem cadastro. Um dia quero ver uma final de campeonato ali, com a torcida inteira jurando que viu uma jogada melhor.
 
-[Chame alguém pra jogar →](https://damas-lilac.vercel.app/)
+[Abra uma mesa de damas →](https://damas-lilac.vercel.app/)
 
-## A partida que eu quero perder
+### A partida que eu quero perder
 
-Quero treinar uma IA de damas com as minhas próprias partidas. Primeiro ela precisa aprender minhas manias no tabuleiro. Depois, quero ver se consegue usar uma delas contra mim. Se der certo, a revanche já tá pedida.
+Um dia quero treinar uma IA de damas com as minhas próprias partidas. O teste vai ser quando ela me oferecer uma peça e eu cair na minha própria armadilha. Se acontecer, já quero a revanche.
 
 <details>
 <summary><strong>Mas quem deu acesso total ao gato?</strong></summary>
